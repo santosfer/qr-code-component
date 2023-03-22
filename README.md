@@ -13,9 +13,6 @@ Essa é uma solução do [desafio QR code component challenge do Frontend Mentor
   - [O que aprendi](#o-que-aprendi)
 - [Autora](#autora)
 
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -24,8 +21,8 @@ Essa é uma solução do [desafio QR code component challenge do Frontend Mentor
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- URL solução: [Vá para o site](https://www.frontendmentor.io/solutions/qr-code-soluo-5RwZ2rLb3E)
+- Live Site URL: [Vá para o site](https://santosfer.github.io/qr-code-component/)
 
 ## Meu processo
 
@@ -37,7 +34,9 @@ Essa é uma solução do [desafio QR code component challenge do Frontend Mentor
 
 ### O que aprendi
 
+Esse desafio foi bem simples para mim, não tive dificuldades. Minha meta foi iniciar com um projeto mais simples para depois pegar outros com maior complexidade. Foi a primeira vez que tive contato diretamente, e sozinha, com um projeto e pude compreender e analisar como as orientações dentro do projeto foram passadas para poder dar seguimento a construção do mesmo, esse foi o ponto principal. Vale ressaltar também que o site e os projetos são fornecidos em inglês e utilizei tradução livre para criar o readme.
+
 ## Autora
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@santosfer](https://www.frontendmentor.io/profile/santosfer)
 - Twitter - [@santos4fer](https://twitter.com/santos4fer?t=C_005ydwl4kRlCgf-SlMgQ&s=09)
